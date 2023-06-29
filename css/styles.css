@@ -858,7 +858,6 @@ p {
 }
 
 .check-text {
-  display: flex;
   align-items: center;
   margin-bottom: 24px;
   font-size: 12px;
